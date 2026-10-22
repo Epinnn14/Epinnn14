@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Alessandro%20Kevin%20Aprilio&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20AI&descSize=16&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Alessandro%20Kevin%20Aprilio&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Apps%20Developer%20%7C%20Backend%20and%20AI%20Engineer&descSize=16&descAlignY=58" alt="header" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/alessandro-kevin-aprilio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kevinaprilio1406@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://instagram.com/epinnn14"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <img src="https://visitcount.itsvg.in/api?id=Epinnn14&icon=0&color=0" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Epinnn14&style=flat-square&color=0e75b6&label=Profile%20views" alt="profile views" />
 </p>
 
 ---
@@ -20,11 +20,23 @@
 
 I'm **Vin**, a software engineer who enjoys turning ideas into working software, from clean REST APIs to machine learning models. I care about writing code that's tested, documented, and actually ships.
 
-- 🚀 **Currently:** AI Intern at **FlyRank**, working through the Backend AI Engineering track (Python + FastAPI)
+- 💼 **Currently:** Apps Developer at **BINUS University** and AI Intern at **FlyRank** (Backend AI Engineering track, Python + FastAPI)
 - 🎓 **Completed:** FlyRank Machine Learning program (10 assignments + capstone, certified) and the AI Fluency program
 - 🌱 **Learning:** LLM-powered backends, background jobs, and usage-based billing systems
 - 🤝 **Open to:** internships, collaborations, and interesting side projects
 - 📫 **Reach me:** [kevinaprilio1406@gmail.com](mailto:kevinaprilio1406@gmail.com)
+
+---
+
+## 💼 Experience
+
+**Apps Developer** · BINUS University
+- Built [**Campus Escape**](https://github.com/Epinnn14/campus-escape-mobile), a Flutter mobile escape-room game for high-school students visiting SoCS BINUS @Bekasi
+- Delivered 10 IT-themed mini-game rooms, per-visit event codes, a real-time leaderboard and an online admin panel on Firebase
+
+**AI Intern** · FlyRank
+- Completed the Machine Learning program (10 assignments + capstone, certified) and the AI Fluency program
+- Building production-style backends in the Backend AI Engineering track: REST APIs, auth, background jobs, an LLM-powered API and a usage-metering & billing capstone
 
 ---
 
