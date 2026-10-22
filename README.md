@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/alessandro-kevin-aprilio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kevinaprilio1406@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://instagram.com/epinnn14"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Epinnn14&style=flat-square&color=0e75b6&label=Profile%20views" alt="profile views" />
+  <a href="https://kevinaprilio-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -24,6 +24,7 @@ I'm **Vin**, a software engineer who enjoys turning ideas into working software,
 - 🎓 **Completed:** FlyRank Machine Learning program (10 assignments + capstone, certified) and the AI Fluency program
 - 🌱 **Learning:** LLM-powered backends, background jobs, and usage-based billing systems
 - 🤝 **Open to:** internships, collaborations, and interesting side projects
+- 🌐 **Portfolio:** [kevinaprilio-portfolio.vercel.app](https://kevinaprilio-portfolio.vercel.app/)
 - 📫 **Reach me:** [kevinaprilio1406@gmail.com](mailto:kevinaprilio1406@gmail.com)
 
 ---
