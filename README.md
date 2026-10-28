@@ -1,118 +1,57 @@
-<!-- Header -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,55:12302E,100:2EC4B6&height=110&section=header&text=Alessandro%20Kevin%20Aprilio&fontSize=34&fontColor=EAF0F6&fontAlignY=55&animation=fadeIn" width="100%" alt="Alessandro Kevin Aprilio" /></p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Alessandro%20Kevin%20Aprilio&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Apps%20Developer%20%7C%20Backend%20and%20AI%20Engineer&descSize=16&descAlignY=58" alt="header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=2EC4B6&center=true&vCenter=true&width=520&height=30&lines=Software+Engineer+%C2%B7+Jakarta%2C+Indonesia;Web+%C2%B7+Backend+%C2%B7+Mobile+%C2%B7+Applied+AI;Clean%2C+tested+code+that+actually+ships." alt="Software Engineer · Web · Backend · Mobile · Applied AI" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Backend+%26+AI+Engineering;Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker;Machine+Learning+%26+Data;Always+building%2C+always+learning" alt="typing" />
+  <a href="https://kevinaprilio-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=vercel&logoColor=2EC4B6" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/alessandro-kevin-aprilio"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=2EC4B6" alt="LinkedIn" /></a>
+  <a href="mailto:kevinaprilio1406@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=2EC4B6" alt="Email" /></a>
+  <a href="https://instagram.com/epinnn14"><img src="https://img.shields.io/badge/Instagram-161B22?style=flat-square&logo=instagram&logoColor=2EC4B6" alt="Instagram" /></a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/alessandro-kevin-aprilio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kevinaprilio1406@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://instagram.com/epinnn14"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://kevinaprilio-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>
-</p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:12302E,50:2EC4B6,100:12302E&height=2" width="100%" alt="" /></p>
 
----
+### ◆ About
 
-## 👋 About Me
+Software engineer from Jakarta who likes clean, tested code that ships end-to-end — from REST APIs and Flutter apps to machine-learning models in production.
 
-I'm **Vin**, a software engineer who enjoys turning ideas into working software, from clean REST APIs to machine learning models. I care about writing code that's tested, documented, and actually ships.
+```text
+now      →  Backend AI Engineering Intern @ FlyRank AI · App Developer Intern @ BINUS
+focus    →  Python · FastAPI · PostgreSQL · Flutter · Machine Learning
+study    →  Software Engineering, final year
+open to  →  internships, freelance & interesting side projects
+```
 
-- 💼 **Currently:** Apps Developer at **BINUS University** and AI Intern at **FlyRank** (Backend AI Engineering track, Python + FastAPI)
-- 🎓 **Completed:** FlyRank Machine Learning program (10 assignments + capstone, certified) and the AI Fluency program
-- 🌱 **Learning:** LLM-powered backends, background jobs, and usage-based billing systems
-- 🤝 **Open to:** internships, collaborations, and interesting side projects
-- 🌐 **Portfolio:** [kevinaprilio-portfolio.vercel.app](https://kevinaprilio-portfolio.vercel.app/)
-- 📫 **Reach me:** [kevinaprilio1406@gmail.com](mailto:kevinaprilio1406@gmail.com)
+### ◆ Stack
 
----
-
-## 💼 Experience
-
-**Apps Developer** · BINUS University
-- Built [**Campus Escape**](https://github.com/Epinnn14/campus-escape-mobile), a Flutter mobile escape-room game for high-school students visiting SoCS BINUS @Bekasi
-- Delivered 10 IT-themed mini-game rooms, per-visit event codes, a real-time leaderboard and an online admin panel on Firebase
-
-**AI Intern** · FlyRank
-- Completed the Machine Learning program (10 assignments + capstone, certified) and the AI Fluency program
-- Building production-style backends in the Backend AI Engineering track: REST APIs, auth, background jobs, an LLM-powered API and a usage-metering & billing capstone
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,js,dart,c,html,css&theme=dark" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,dart,java,c&theme=dark" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mysql,supabase,docker&theme=dark" alt="Backend" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,flutter,firebase&theme=dark" alt="Frontend & Mobile" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,aws,gcp,git,figma&theme=dark" alt="AI, Cloud & Tools" />
 </p>
 
-**Backend & Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mysql,sqlite,supabase,docker&theme=dark" alt="backend" />
-</p>
+### ◆ Certifications
 
-**Frontend & Mobile**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,flutter,firebase&theme=dark" alt="frontend and mobile" />
-</p>
+- **FlyRank** — Machine Learning Internship Program
+- **Dicoding × DBS Foundation** — Coding Camp 2026, AI Engineer path
+- **Anthropic** — Claude & AI Fluency courses
+- **Dicoding** — Deep Learning, AWS Cloud Practitioner, Microsoft Fabric & more
+- **BINUS University** — Advanced English (C2)
 
-**AI / Machine Learning & Data**
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="ml" />
-  <br/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
-
-**Cloud, Tools & Design**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,netlify,git,github,gitlab,figma&theme=dark" alt="tools" />
-  <br/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**Campus Escape**](https://github.com/Epinnn14/campus-escape-mobile) | Mobile escape-room game with 10 IT-themed mini-game rooms, real-time leaderboard and an online admin panel | Flutter · Dart · Firebase |
-| [**Triage Agent**](https://github.com/Epinnn14/triage-agent) | AI agent that triages incoming messages, with evals, fixtures and tests | Python · LLM · pytest |
-| [**Backend AI Engineering**](https://github.com/Epinnn14/Backend-AI-Engineering) | FlyRank track: CRUD APIs, auth, background jobs, an LLM-powered API and a usage-metering & billing capstone | FastAPI · PostgreSQL · Docker · Stripe |
-| [**FlyRank ML Intern**](https://github.com/Epinnn14/Flyrank-ML-Intern) | FlyRank Machine Learning program: notebooks, scripts and the certified capstone | Python · scikit-learn · Jupyter |
-| [**CitizenCare**](https://github.com/Epinnn14/CitizenCare) | Infrastructure-report classifier with NLP + vision models, served through an API | TensorFlow · Python · Docker |
-| [**Raja Ampat Knowledge**](https://github.com/Epinnn14/Raja-Ampat-Knowledge) | Interactive site about Raja Ampat: destinations, marine life, legends, culture and a 29-photo gallery | React · Vite |
-
----
-
-## 🏆 Certifications
-
-- 🥇 **FlyRank** — Machine Learning Program Certificate (2026)
-- 🤖 **Anthropic** — 23 course certificates on Claude & AI fluency
-- 📚 **Dicoding** — 16 certificates, including the AI Engineer learning path
----
-
-## 📊 GitHub Stats
+### ◆ GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Epinnn14&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epinnn14&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook,cmake,c%2B%2B&cache_seconds=86400" alt="top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Epinnn14&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=00000000&text_color=8B949E&icon_color=2EC4B6&title_color=2EC4B6&ring_color=2EC4B6" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epinnn14&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=00000000&text_color=8B949E" alt="Top languages" />
 </p>
 
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:12302E,50:2EC4B6,100:12302E&height=2" width="100%" alt="" /></p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Epinnn14&theme=tokyonight&hide_border=true" alt="streak" />
+  <sub>Jakarta, Indonesia &nbsp;·&nbsp; <a href="https://kevinaprilio-portfolio.vercel.app/">kevinaprilio-portfolio.vercel.app</a></sub>
 </p>
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
-</p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EC4B6,60:12302E,100:0D1117&height=80&section=footer" width="100%" alt="" /></p>
