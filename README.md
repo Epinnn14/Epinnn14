@@ -18,7 +18,7 @@
 Software engineer from Jakarta who likes clean, tested code that ships end-to-end — from REST APIs and Flutter apps to machine-learning models in production.
 
 ```text
-now      →  Backend AI Engineering Intern @ FlyRank AI · App Developer Intern @ BINUS
+now      →  App Developer Intern @ BINUS · just finished AI Engineering (Backend & Front-end) @ FlyRank AI
 focus    →  Python · FastAPI · PostgreSQL · Flutter · Machine Learning
 study    →  Software Engineering, final year
 open to  →  internships, freelance & interesting side projects
@@ -35,17 +35,18 @@ open to  →  internships, freelance & interesting side projects
 
 ### ◆ Certifications
 
-- **FlyRank** — Machine Learning Internship Program
+- **Columbia+** — AI Cybersecurity and Governance (Columbia Engineering Executive Education)
+- **FlyRank AI** — Backend AI Engineering, Front-end AI Engineering, AI Fluency & Machine Learning internship programs
 - **Dicoding × DBS Foundation** — Coding Camp 2026, AI Engineer path
-- **Anthropic** — Claude & AI Fluency courses
+- **Anthropic** — Claude API, Claude Code & Model Context Protocol courses
 - **Dicoding** — Deep Learning, AWS Cloud Practitioner, Microsoft Fabric & more
 - **BINUS University** — Advanced English (C2)
 
 ### ◆ GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Epinnn14&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=00000000&text_color=8B949E&icon_color=2EC4B6&title_color=2EC4B6&ring_color=2EC4B6" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epinnn14&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=00000000&text_color=8B949E" alt="Top languages" />
+  <img height="160" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="160" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:12302E,50:2EC4B6,100:12302E&height=2" width="100%" alt="" /></p>
