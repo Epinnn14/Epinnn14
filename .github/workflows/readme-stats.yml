@@ -1,8 +1,11 @@
+# Generates the profile README images (stats, top languages, contribution snake)
+# in a dark and a light version, so text stays readable in both GitHub themes.
+# Runs daily and on demand ("Run workflow" in the Actions tab).
 name: Update README cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # every day at 07:00 WIB
   workflow_dispatch:
 
 permissions:
@@ -14,21 +17,45 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Stats card
+      - name: Stats card (dark)
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Epinnn14&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=8B949E&icon_color=2EC4B6&title_color=2EC4B6&ring_color=2EC4B6
+          options: username=Epinnn14&show_icons=true&hide_rank=true&hide=stars,issues&hide_title=true&hide_border=true&bg_color=00000000&text_color=8B949E&icon_color=2EC4B6
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Top languages card
+      - name: Stats card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=Epinnn14&show_icons=true&hide_rank=true&hide=stars,issues&hide_title=true&hide_border=true&bg_color=00000000&text_color=57606A&icon_color=0F766E
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Top languages (dark)
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=Epinnn14&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=00000000&text_color=8B949E
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Top languages (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=Epinnn14&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=00000000&text_color=57606A
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Epinnn14
+          outputs: |
+            profile/snake.svg?palette=github-dark&color_snake=#2EC4B6&color_dots=#161B22,#12302E,#1A5C55,#24918A,#2EC4B6
+            profile/snake-light.svg?color_snake=#0F766E&color_dots=#EBEDF0,#B5E8E2,#6FD3C9,#2EC4B6,#0F766E
 
       - name: Commit the cards
         run: |
