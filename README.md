@@ -12,7 +12,6 @@
   <a href="https://linkedin.com/in/alessandro-kevin-aprilio"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=2EC4B6" alt="LinkedIn" /></a>
   <a href="mailto:kevinaprilio1406@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=2EC4B6" alt="Email" /></a>
   <a href="https://instagram.com/epinnn14"><img src="https://img.shields.io/badge/Instagram-161B22?style=flat-square&logo=instagram&logoColor=2EC4B6" alt="Instagram" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Epinnn14&label=views&color=30363D&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center"><sub><i>Building things that actually ship.</i></sub></p>
