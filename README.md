@@ -22,8 +22,8 @@
 ### About
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epinnn14/Epinnn14/HEAD/profile/stats.svg" />
-  <img align="right" width="400" src="https://raw.githubusercontent.com/Epinnn14/Epinnn14/HEAD/profile/stats-light.svg" alt="GitHub stats: commits, pull requests and repositories contributed to" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epinnn14/Epinnn14/HEAD/profile/about.svg" />
+  <img align="right" width="304" src="https://raw.githubusercontent.com/Epinnn14/Epinnn14/HEAD/profile/about-light.svg" alt="GitHub stats: commits, pull requests and repositories contributed to, with Spider-Man hanging from the card" />
 </picture>
 
 ```console
@@ -53,19 +53,12 @@ internships · freelance · side projects
 
 ### Activity
 
-> Languages across my repos, and a snake eating my contribution graph. Refreshed every day.
+> Languages across my repos. Refreshed every day.
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epinnn14/Epinnn14/HEAD/profile/top-langs.svg" />
     <img height="150" src="https://raw.githubusercontent.com/Epinnn14/Epinnn14/HEAD/profile/top-langs-light.svg" alt="Most-used languages across my repositories" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epinnn14/Epinnn14/HEAD/profile/snake.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/Epinnn14/Epinnn14/HEAD/profile/snake-light.svg" alt="Snake animation eating my GitHub contribution graph" />
   </picture>
 </p>
 
