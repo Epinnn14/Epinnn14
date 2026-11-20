@@ -1,4 +1,4 @@
-# Generates the profile README images (stats, top languages, contribution snake)
+# Generates the profile README images (stats card with Spider-Man, top languages)
 # in a dark and a light version, so text stays readable in both GitHub themes.
 # Runs daily and on demand ("Run workflow" in the Actions tab).
 name: Update README cards
@@ -49,13 +49,8 @@ jobs:
           path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Epinnn14
-          outputs: |
-            profile/snake.svg?palette=github-dark&color_snake=#2EC4B6&color_dots=#161B22,#12302E,#1A5C55,#24918A,#2EC4B6
-            profile/snake-light.svg?color_snake=#0F766E&color_dots=#EBEDF0,#B5E8E2,#6FD3C9,#2EC4B6,#0F766E
+      - name: Hang Spider-Man from the stats card
+        run: python3 .github/scripts/compose_about.py
 
       - name: Commit the cards
         run: |
