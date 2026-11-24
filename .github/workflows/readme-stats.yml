@@ -21,7 +21,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Epinnn14&show_icons=true&hide_rank=true&hide=stars,issues&hide_title=true&hide_border=true&bg_color=00000000&text_color=8B949E&icon_color=2EC4B6
+          options: username=Epinnn14&show_icons=true&hide_rank=true&hide=stars,issues&hide_title=true&hide_border=true&bg_color=00000000&text_color=8B949E&icon_color=FFC07A
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -29,7 +29,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Epinnn14&show_icons=true&hide_rank=true&hide=stars,issues&hide_title=true&hide_border=true&bg_color=00000000&text_color=57606A&icon_color=0F766E
+          options: username=Epinnn14&show_icons=true&hide_rank=true&hide=stars,issues&hide_title=true&hide_border=true&bg_color=00000000&text_color=57606A&icon_color=C4451A
           path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
