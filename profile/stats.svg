@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Vin&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Commits  (last year) : 394, Total PRs: 0, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Commits  (last year) : 396, Total PRs: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -46,7 +46,7 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #2EC4B6;
+      fill: #FFC07A;
       display: block;
     }
 
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 217.50516875726845;
+        stroke-dashoffset: 217.42747659284507;
       }
     }
   
@@ -144,7 +144,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >394</text>
+      >396</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
