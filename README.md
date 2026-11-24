@@ -1,22 +1,22 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,55:12302E,100:2EC4B6&height=110&section=header&text=Alessandro%20Kevin%20Aprilio&fontSize=34&fontColor=EAF0F6&fontAlignY=55&animation=fadeIn" width="100%" alt="Alessandro Kevin Aprilio" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:05070D,55:0B1A4A,100:FF7A3D&height=110&section=header&text=Alessandro%20Kevin%20Aprilio&fontSize=34&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" width="100%" alt="Alessandro Kevin Aprilio" /></p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=2EC4B6&center=true&vCenter=true&width=520&height=30&lines=%3E+Hello%2C+I'm+Kevin_;%3E+Software+Engineer+%C2%B7+Jakarta%2C+Indonesia;%3E+Web+%C2%B7+Backend+%C2%B7+Mobile+%C2%B7+Applied+AI" />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=0F766E&center=true&vCenter=true&width=520&height=30&lines=%3E+Hello%2C+I'm+Kevin_;%3E+Software+Engineer+%C2%B7+Jakarta%2C+Indonesia;%3E+Web+%C2%B7+Backend+%C2%B7+Mobile+%C2%B7+Applied+AI" alt="Hello, I'm Kevin. Software Engineer in Jakarta, Indonesia: web, backend, mobile and applied AI." />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=FFC07A&center=true&vCenter=true&width=520&height=30&lines=%3E+Hello%2C+I'm+Kevin_;%3E+Software+%26+AI+Engineer+%C2%B7+Jakarta%2C+Indonesia;%3E+Web+%C2%B7+Backend+%C2%B7+Mobile+%C2%B7+Applied+AI" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=C4451A&center=true&vCenter=true&width=520&height=30&lines=%3E+Hello%2C+I'm+Kevin_;%3E+Software+%26+AI+Engineer+%C2%B7+Jakarta%2C+Indonesia;%3E+Web+%C2%B7+Backend+%C2%B7+Mobile+%C2%B7+Applied+AI" alt="Hello, I'm Kevin. Software and AI engineer in Jakarta, Indonesia: web, backend, mobile and applied AI." />
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://kevinaprilio-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=vercel&logoColor=2EC4B6" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/alessandro-kevin-aprilio"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=2EC4B6" alt="LinkedIn" /></a>
-  <a href="mailto:kevinaprilio1406@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=2EC4B6" alt="Email" /></a>
-  <a href="https://instagram.com/epinnn14"><img src="https://img.shields.io/badge/Instagram-161B22?style=flat-square&logo=instagram&logoColor=2EC4B6" alt="Instagram" /></a>
+  <a href="https://kevinaprilio-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=vercel&logoColor=FFC07A" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/alessandro-kevin-aprilio"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=FFC07A" alt="LinkedIn" /></a>
+  <a href="mailto:kevinaprilio1406@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=FFC07A" alt="Email" /></a>
+  <a href="https://instagram.com/epinnn14"><img src="https://img.shields.io/badge/Instagram-161B22?style=flat-square&logo=instagram&logoColor=FFC07A" alt="Instagram" /></a>
 </p>
 
-<p align="center"><sub><i>Building things that actually ship.</i></sub></p>
+<p align="center"><sub><i>Clean code that actually ships.</i></sub></p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:12302E,50:2EC4B6,100:12302E&height=2" width="100%" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1A4A,50:FF7A3D,100:0B1A4A&height=2" width="100%" alt="" /></p>
 
 ### About
 
@@ -27,7 +27,7 @@
 
 ```console
 $ whoami
-kevin — software engineer, jakarta
+kevin — software & ai engineer, jakarta
 
 $ cat now.txt
 → App Developer Intern @ BINUS
@@ -41,10 +41,23 @@ $ ./contact --open-to
 internships · freelance · side projects
 ```
 
+### Featured projects
+
+| Project | What it is | Built with |
+| :-- | :-- | :-- |
+| [**Shadow Ball**](https://epinnn14.github.io/shadow-ball/) | Football coaching assistant: tactics board, full-match simulator and replays that show who controls the space | Python · JavaScript · Computer Vision |
+| [**Laris**](https://github.com/Epinnn14/laris) | Cash book, till and demand forecasting for Indonesian food stalls, offline on Windows | React · FastAPI · ONNX |
+| [**Infergate**](https://github.com/Epinnn14/infergate) | OpenAI-compatible LLM inference on Kubernetes with prefix-cache routing and autoscaling | Go · Kubernetes · Redis |
+| [**ML Atlas**](https://epinnn14.github.io/ml-atlas/) | Machine-learning course with 56 lessons and Python exercises tested in the browser | React · TypeScript · Pyodide |
+| [**Corkboard**](https://epinnn14.github.io/corkboard/) | Endless corkboard for notes, a weekly planner and a desktop widget | Vue 3 · PWA · Electron |
+| [**CitizenCare**](https://capstone-project-psi-weld.vercel.app/) | Civic reports classified and triaged by an IndoBERT model (Coding Camp 2026 capstone) | React · TensorFlow · FastAPI |
+
+<sub>More, with case studies and screenshots, on <a href="https://kevinaprilio-portfolio.vercel.app/#work">my portfolio</a>.</sub>
+
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,dart,java,c&theme=dark" alt="Languages: Python, JavaScript, TypeScript, Dart, Java, C" /><br/>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,go,dart,java&theme=dark" alt="Languages: Python, JavaScript, TypeScript, Go, Dart, Java" /><br/>
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mysql,supabase,docker&theme=dark" alt="Backend: FastAPI, Node.js, Express, PostgreSQL, MySQL, Supabase, Docker" /><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,flutter,firebase&theme=dark" alt="Frontend and mobile: React, Next.js, Vite, Tailwind, Flutter, Firebase" /><br/>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,aws,gcp,git,figma&theme=dark" alt="AI, cloud and tools: PyTorch, TensorFlow, scikit-learn, AWS, Google Cloud, Git, Figma" />
@@ -76,4 +89,4 @@ internships · freelance · side projects
   <sub>Jakarta, Indonesia &nbsp;·&nbsp; <a href="https://kevinaprilio-portfolio.vercel.app/">kevinaprilio-portfolio.vercel.app</a></sub>
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EC4B6,60:12302E,100:0D1117&height=80&section=footer" width="100%" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A3D,60:0B1A4A,100:05070D&height=80&section=footer" width="100%" alt="" /></p>
